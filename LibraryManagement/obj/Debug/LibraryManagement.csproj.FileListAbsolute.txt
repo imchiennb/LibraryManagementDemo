@@ -1,0 +1,10 @@
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+Z:\FPT-Intern\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
